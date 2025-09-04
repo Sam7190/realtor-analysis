@@ -9,5 +9,6 @@ pandas
 numpy
 matplotlib
 xgboost
+scikit-learn
 jupyterlab
 openpyxl

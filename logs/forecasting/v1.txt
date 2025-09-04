@@ -1,0 +1,21 @@
+## Fourier Transform
+              series       RMSE  RMSE_baseline  RMSE_improvement_%  \
+1     days_on_market  16.345059      19.283580           15.238462   
+0       price_change   0.069273       0.083718           17.253702   
+2  view_count_change   0.140987       0.233121           39.522080   
+
+      sMAPE_%  sMAPE_baseline_%  sMAPE_improvement_%      MASE  MASE_baseline  
+1   39.446466         45.972967            14.196388  1.123391       1.200344  
+0  141.916400        154.604815             8.206999  1.055244       1.379221  
+2  130.571404        156.289588            16.455469  0.908872       1.492491  
+
+## XGB Regressor
+              series       RMSE  RMSE_baseline  RMSE_improvement_%  \
+1     days_on_market  16.077661      19.283580           16.625121   
+0       price_change   0.077784       0.083718            7.087992   
+2  view_count_change   0.155686       0.233121           33.216397   
+
+      sMAPE_%  sMAPE_baseline_%  sMAPE_improvement_%      MASE  MASE_baseline  
+1   40.719116         45.972967            11.428132  1.035579       1.200344  
+0  156.035517        154.604815            -0.925393  1.201933       1.379221  
+2  145.932220        156.289588             6.627037  1.008859       1.492491  

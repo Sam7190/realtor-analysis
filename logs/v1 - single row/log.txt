@@ -1,0 +1,168 @@
+
+Training model for 1 months prediction with 91 records
+Months Out: 1, Outcome high_risk_price_change, AUC: 0.603
+Months Out: 1, Outcome high_risk_price_change, Final Prediction: [0.9622251  0.03777494]
+Months Out: 1, Outcome strong_market_price_change, AUC: 0.3801
+Months Out: 1, Outcome strong_market_price_change, Final Prediction: [0.9611013  0.03889874]
+Months Out: 1, Outcome high_risk_days_on_market, AUC: None
+Months Out: 1, Outcome high_risk_days_on_market, Final Prediction: [1. 0.]
+Months Out: 1, Outcome strong_market_days_on_market, AUC: 1.0
+Months Out: 1, Outcome strong_market_days_on_market, Final Prediction: [0.9833434  0.01665659]
+Months Out: 1, Outcome high_risk_view_count_change, AUC: 0.7851
+Months Out: 1, Outcome high_risk_view_count_change, Final Prediction: [0.27131593 0.72868407]
+Months Out: 1, Outcome strong_market_view_count_change, AUC: 0.602
+Months Out: 1, Outcome strong_market_view_count_change, Final Prediction: [0.9923241  0.00767591]
+
+Training model for 2 months prediction with 90 records
+Months Out: 2, Outcome high_risk_price_change, AUC: 0.6351
+Months Out: 2, Outcome high_risk_price_change, Final Prediction: [0.5257094  0.47429064]
+Months Out: 2, Outcome strong_market_price_change, AUC: 0.6071
+Months Out: 2, Outcome strong_market_price_change, Final Prediction: [0.3803897 0.6196103]
+Months Out: 2, Outcome high_risk_days_on_market, AUC: None
+Months Out: 2, Outcome high_risk_days_on_market, Final Prediction: [1. 0.]
+Months Out: 2, Outcome strong_market_days_on_market, AUC: 1.0
+Months Out: 2, Outcome strong_market_days_on_market, Final Prediction: [0.9826872 0.0173128]
+Months Out: 2, Outcome high_risk_view_count_change, AUC: 0.6412
+Months Out: 2, Outcome high_risk_view_count_change, Final Prediction: [0.40892053 0.5910795 ]
+Months Out: 2, Outcome strong_market_view_count_change, AUC: 0.7484
+Months Out: 2, Outcome strong_market_view_count_change, Final Prediction: [0.94650567 0.05349436]
+
+Training model for 3 months prediction with 89 records
+Months Out: 3, Outcome high_risk_price_change, AUC: 0.7264
+Months Out: 3, Outcome high_risk_price_change, Final Prediction: [0.91403997 0.08596004]
+Months Out: 3, Outcome strong_market_price_change, AUC: 0.7025
+Months Out: 3, Outcome strong_market_price_change, Final Prediction: [0.2614678 0.7385322]
+Months Out: 3, Outcome high_risk_days_on_market, AUC: None
+Months Out: 3, Outcome high_risk_days_on_market, Final Prediction: [1. 0.]
+Months Out: 3, Outcome strong_market_days_on_market, AUC: 1.0
+Months Out: 3, Outcome strong_market_days_on_market, Final Prediction: [0.9832772  0.01672282]
+Months Out: 3, Outcome high_risk_view_count_change, AUC: 0.7389
+Months Out: 3, Outcome high_risk_view_count_change, Final Prediction: [0.08571619 0.9142838 ]
+Months Out: 3, Outcome strong_market_view_count_change, AUC: 0.6218
+Months Out: 3, Outcome strong_market_view_count_change, Final Prediction: [0.9476307  0.05236929]
+
+Training model for 4 months prediction with 88 records
+Months Out: 4, Outcome high_risk_price_change, AUC: 0.809
+Months Out: 4, Outcome high_risk_price_change, Final Prediction: [0.90733796 0.09266206]
+Months Out: 4, Outcome strong_market_price_change, AUC: 0.8002
+Months Out: 4, Outcome strong_market_price_change, Final Prediction: [0.02471226 0.97528774]
+Months Out: 4, Outcome high_risk_days_on_market, AUC: None
+Months Out: 4, Outcome high_risk_days_on_market, Final Prediction: [1. 0.]
+Months Out: 4, Outcome strong_market_days_on_market, AUC: 1.0
+Months Out: 4, Outcome strong_market_days_on_market, Final Prediction: [0.9830315  0.01696846]
+Months Out: 4, Outcome high_risk_view_count_change, AUC: 0.8164
+Months Out: 4, Outcome high_risk_view_count_change, Final Prediction: [0.7439492  0.25605085]
+Months Out: 4, Outcome strong_market_view_count_change, AUC: 0.721
+Months Out: 4, Outcome strong_market_view_count_change, Final Prediction: [0.7660976 0.2339024]
+
+Training model for 5 months prediction with 87 records
+Months Out: 5, Outcome high_risk_price_change, AUC: 0.8258
+Months Out: 5, Outcome high_risk_price_change, Final Prediction: [0.5822318  0.41776818]
+Months Out: 5, Outcome strong_market_price_change, AUC: 0.8791
+Months Out: 5, Outcome strong_market_price_change, Final Prediction: [0.07298714 0.92701286]
+Months Out: 5, Outcome high_risk_days_on_market, AUC: None
+Months Out: 5, Outcome high_risk_days_on_market, Final Prediction: [1. 0.]
+Months Out: 5, Outcome strong_market_days_on_market, AUC: 1.0
+Months Out: 5, Outcome strong_market_days_on_market, Final Prediction: [0.98321086 0.01678916]
+Months Out: 5, Outcome high_risk_view_count_change, AUC: 0.9013
+Months Out: 5, Outcome high_risk_view_count_change, Final Prediction: [0.2625805 0.7374195]
+Months Out: 5, Outcome strong_market_view_count_change, AUC: 0.8152
+Months Out: 5, Outcome strong_market_view_count_change, Final Prediction: [0.80240285 0.19759716]
+
+Training model for 6 months prediction with 86 records
+Months Out: 6, Outcome high_risk_price_change, AUC: 0.87
+Months Out: 6, Outcome high_risk_price_change, Final Prediction: [0.2110992 0.7889008]
+Months Out: 6, Outcome strong_market_price_change, AUC: 0.7984
+Months Out: 6, Outcome strong_market_price_change, Final Prediction: [0.6688702  0.33112976]
+Months Out: 6, Outcome high_risk_days_on_market, AUC: None
+Months Out: 6, Outcome high_risk_days_on_market, Final Prediction: [1. 0.]
+Months Out: 6, Outcome strong_market_days_on_market, AUC: 1.0
+Months Out: 6, Outcome strong_market_days_on_market, Final Prediction: [0.9829589  0.01704107]
+Months Out: 6, Outcome high_risk_view_count_change, AUC: 0.7937
+Months Out: 6, Outcome high_risk_view_count_change, Final Prediction: [0.56260407 0.4373959 ]
+Months Out: 6, Outcome strong_market_view_count_change, AUC: 0.8874
+Months Out: 6, Outcome strong_market_view_count_change, Final Prediction: [0.511726 0.488274]
+
+Training model for 7 months prediction with 85 records
+Months Out: 7, Outcome high_risk_price_change, AUC: 0.8289
+Months Out: 7, Outcome high_risk_price_change, Final Prediction: [0.40515798 0.594842  ]
+Months Out: 7, Outcome strong_market_price_change, AUC: 0.8361
+Months Out: 7, Outcome strong_market_price_change, Final Prediction: [0.8732877  0.12671234]
+Months Out: 7, Outcome high_risk_days_on_market, AUC: None
+Months Out: 7, Outcome high_risk_days_on_market, Final Prediction: [1. 0.]
+Months Out: 7, Outcome strong_market_days_on_market, AUC: 1.0
+Months Out: 7, Outcome strong_market_days_on_market, Final Prediction: [0.98224866 0.01775137]
+Months Out: 7, Outcome high_risk_view_count_change, AUC: 0.8728
+Months Out: 7, Outcome high_risk_view_count_change, Final Prediction: [0.8173324  0.18266763]
+Months Out: 7, Outcome strong_market_view_count_change, AUC: 0.869
+Months Out: 7, Outcome strong_market_view_count_change, Final Prediction: [0.5785667 0.4214333]
+
+Training model for 8 months prediction with 84 records
+Months Out: 8, Outcome high_risk_price_change, AUC: 0.8547
+Months Out: 8, Outcome high_risk_price_change, Final Prediction: [0.8421898 0.1578102]
+Months Out: 8, Outcome strong_market_price_change, AUC: 0.7832
+Months Out: 8, Outcome strong_market_price_change, Final Prediction: [0.8919103  0.10808971]
+Months Out: 8, Outcome high_risk_days_on_market, AUC: None
+Months Out: 8, Outcome high_risk_days_on_market, Final Prediction: [1. 0.]
+Months Out: 8, Outcome strong_market_days_on_market, AUC: 1.0
+Months Out: 8, Outcome strong_market_days_on_market, Final Prediction: [0.9824314  0.01756856]
+Months Out: 8, Outcome high_risk_view_count_change, AUC: 0.794
+Months Out: 8, Outcome high_risk_view_count_change, Final Prediction: [0.9234421  0.07655786]
+Months Out: 8, Outcome strong_market_view_count_change, AUC: 0.7426
+Months Out: 8, Outcome strong_market_view_count_change, Final Prediction: [0.33768058 0.6623194 ]
+
+Training model for 9 months prediction with 83 records
+Months Out: 9, Outcome high_risk_price_change, AUC: 0.8364
+Months Out: 9, Outcome high_risk_price_change, Final Prediction: [0.9466889  0.05331108]
+Months Out: 9, Outcome strong_market_price_change, AUC: 0.7437
+Months Out: 9, Outcome strong_market_price_change, Final Prediction: [0.62486386 0.37513614]
+Months Out: 9, Outcome high_risk_days_on_market, AUC: None
+Months Out: 9, Outcome high_risk_days_on_market, Final Prediction: [1. 0.]
+Months Out: 9, Outcome strong_market_days_on_market, AUC: 1.0
+Months Out: 9, Outcome strong_market_days_on_market, Final Prediction: [0.9812075  0.01879251]
+Months Out: 9, Outcome high_risk_view_count_change, AUC: 0.8655
+Months Out: 9, Outcome high_risk_view_count_change, Final Prediction: [0.90170205 0.09829793]
+Months Out: 9, Outcome strong_market_view_count_change, AUC: 0.8345
+Months Out: 9, Outcome strong_market_view_count_change, Final Prediction: [0.06417793 0.93582207]
+
+Training model for 10 months prediction with 82 records
+Months Out: 10, Outcome high_risk_price_change, AUC: 0.9301
+Months Out: 10, Outcome high_risk_price_change, Final Prediction: [0.96633327 0.03366674]
+Months Out: 10, Outcome strong_market_price_change, AUC: 0.8288
+Months Out: 10, Outcome strong_market_price_change, Final Prediction: [0.32659066 0.67340934]
+Months Out: 10, Outcome high_risk_days_on_market, AUC: None
+Months Out: 10, Outcome high_risk_days_on_market, Final Prediction: [1. 0.]
+Months Out: 10, Outcome strong_market_days_on_market, AUC: 1.0
+Months Out: 10, Outcome strong_market_days_on_market, Final Prediction: [0.98090047 0.01909956]
+Months Out: 10, Outcome high_risk_view_count_change, AUC: 0.8527
+Months Out: 10, Outcome high_risk_view_count_change, Final Prediction: [0.8707049  0.12929511]
+Months Out: 10, Outcome strong_market_view_count_change, AUC: 0.7757
+Months Out: 10, Outcome strong_market_view_count_change, Final Prediction: [0.8397678  0.16023222]
+
+Training model for 11 months prediction with 81 records
+Months Out: 11, Outcome high_risk_price_change, AUC: 0.8841
+Months Out: 11, Outcome high_risk_price_change, Final Prediction: [0.6888132  0.31118676]
+Months Out: 11, Outcome strong_market_price_change, AUC: 0.8951
+Months Out: 11, Outcome strong_market_price_change, Final Prediction: [0.3626418 0.6373582]
+Months Out: 11, Outcome high_risk_days_on_market, AUC: None
+Months Out: 11, Outcome high_risk_days_on_market, Final Prediction: [1. 0.]
+Months Out: 11, Outcome strong_market_days_on_market, AUC: 1.0
+Months Out: 11, Outcome strong_market_days_on_market, Final Prediction: [0.98058295 0.01941706]
+Months Out: 11, Outcome high_risk_view_count_change, AUC: 0.837
+Months Out: 11, Outcome high_risk_view_count_change, Final Prediction: [0.17410892 0.8258911 ]
+Months Out: 11, Outcome strong_market_view_count_change, AUC: 0.8389
+Months Out: 11, Outcome strong_market_view_count_change, Final Prediction: [0.6762362 0.3237638]
+
+Training model for 12 months prediction with 80 records
+Months Out: 12, Outcome high_risk_price_change, AUC: 0.9204
+Months Out: 12, Outcome high_risk_price_change, Final Prediction: [0.90853906 0.09146094]
+Months Out: 12, Outcome strong_market_price_change, AUC: 0.8814
+Months Out: 12, Outcome strong_market_price_change, Final Prediction: [0.61113715 0.38886282]
+Months Out: 12, Outcome high_risk_days_on_market, AUC: None
+Months Out: 12, Outcome high_risk_days_on_market, Final Prediction: [1. 0.]
+Months Out: 12, Outcome strong_market_days_on_market, AUC: 1.0
+Months Out: 12, Outcome strong_market_days_on_market, Final Prediction: [0.9807661  0.01923387]
+Months Out: 12, Outcome high_risk_view_count_change, AUC: 0.8259
+Months Out: 12, Outcome high_risk_view_count_change, Final Prediction: [0.5790218  0.42097816]
+Months Out: 12, Outcome strong_market_view_count_change, AUC: 0.779
+Months Out: 12, Outcome strong_market_view_count_change, Final Prediction: [0.6264232  0.37357682]
