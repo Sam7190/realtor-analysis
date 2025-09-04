@@ -4,6 +4,9 @@ torch
 torchvision
 torchaudio
 
+# interactive
+bokeh
+
 # Helpers
 pandas
 numpy
